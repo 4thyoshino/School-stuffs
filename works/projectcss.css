@@ -1,0 +1,30 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h1 {
+    color:green;
+    margin-left: auto;
+}
+
+p {
+    color: navy;
+    margin: auto;
+    font-size:medium;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: orangered;
+}
+
+.image {
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 5px;
+    width: 300px;
+}
+
+.image2 {
+    border: 5px solid;
+    border-radius: 5px;
+    padding: 25px;
+    width: auto;
+}

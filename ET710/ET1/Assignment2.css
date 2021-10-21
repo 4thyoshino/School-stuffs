@@ -1,0 +1,37 @@
+.table {
+background-color: yellow;
+
+}
+
+.center{
+
+    text-align: center;
+}
+
+.border {
+    border: solid;
+    background-color: aquamarine;
+    border-width: 10px;
+
+
+}
+
+.web {
+    color: orange;
+    vertical-align: middle;
+    }
+
+figure {
+    border: 5px #cccccc solid;
+    background-color: white;
+    padding: 60px;
+    margin: auto;
+    width: 300px;
+}
+
+.video {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+
+}

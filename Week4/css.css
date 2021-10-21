@@ -1,0 +1,30 @@
+.Line {
+    width: 70%;
+    height: 100%;
+  
+    text-align: center;
+    border: solid;
+   }
+
+
+
+body {
+    background-color:lightblue;
+}
+
+.Hello  {
+    text-align: center;
+}
+
+img {
+    width: 550px;
+    height: 340px;
+}
+
+.imgleft {
+    float: left;
+}
+
+.imgright {
+    float: right;
+}
