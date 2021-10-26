@@ -1,0 +1,47 @@
+.hand {
+    left: 505px;
+   width: 300px;
+   height: 60px;
+   top: 480px;
+   position: absolute;
+   margin: 0 auto;
+   transform-origin: 0%;
+   animation-name: hand;
+   animation-duration: 10s;
+   animation-iteration-count: infinite;
+   
+}
+.hand2{
+    left: 505px;
+   width: 450px;
+   height: 60px;
+   top: 480px;
+   position: absolute;
+   margin: 0 auto;
+   transform: rotate(270deg);
+   transform-origin: 0%;
+   animation-name: hand2;
+   animation-duration: 10s;
+   animation-iteration-count: infinite;
+}
+
+.clock {
+    position: relative;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 1000px;
+}
+
+
+
+@keyframes hand2 {
+    
+   100%{transform: rotate(630deg);}
+}
+
+@keyframes hand {
+    
+    100%{transform: rotate(30deg);}
+ }
