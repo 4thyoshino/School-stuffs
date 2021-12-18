@@ -1,0 +1,103 @@
+.logo2{
+    height: 150px;
+    border: solid;
+    border-color: darkolivegreen;
+}
+
+.yellow{
+    background-color:khaki;
+}
+
+.h11{
+    text-align: center;
+    float: right;
+    margin-right: 60%;
+    margin-bottom: 60%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:forestgreen;
+}
+
+.slide {
+    background-color: khaki;
+}
+
+.welcome{
+    text-align: center;
+    background-color: lawngreen;
+    animation-name: welcome;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+
+
+@keyframes welcome{
+    0%   { 
+    transform: translateX(200%); 		
+    }
+    100% { 
+    transform: translateX(0%); 
+    }
+   }
+
+
+.image1{
+    position: absolute;
+    height: 50%;
+    width: 50%;
+}
+
+.p1{
+    position: absolute;
+    color: lawngreen;
+    border: solid;
+    border-color: lightcoral;
+    background-color: gray;
+    width: 400px;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+
+.image2{
+    position: absolute;
+    height: 50%;
+    width: 50%;
+    margin-top: 25%;
+}
+
+.p2{
+    position: absolute;
+    color:white;
+    width: 700px;
+    margin-left: 7%;
+    margin-top: 27%;
+}
+
+.backside {
+    background-color: khaki;
+
+}
+
+.pics1{
+    height: 400px;
+    width: 500px;
+   
+}
+
+.pics2{
+  float: left;
+  margin-top: -31.5%;
+  margin-left: 35%;
+  height: 400px;
+  width: 500px;
+
+ 
+}
+.pics3{
+    height: 400px;
+    width: 500px;
+    float: left;
+    margin-top: -31.5%;
+    margin-left: 70%;
+
+}
+

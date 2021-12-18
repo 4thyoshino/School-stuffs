@@ -1,0 +1,102 @@
+.nav-link:hover {
+    background-color: rgb(180, 180, 12);
+  }
+
+
+.project1{
+  width: 700px;
+  height: 400px;
+}
+
+.north1{
+  width: 400px;
+  height: 250px;
+}
+
+.project2{
+  width: 400px;
+}
+
+.html{
+  height: 200px;
+  width: 245px;
+  border-radius: 10%;
+}
+
+.css{
+  height: 200px;
+  width: 245px;
+  border-radius: 10%;
+}
+
+.card1{
+  background-color: skyblue;
+  height: 440px;
+  width: 250px;
+  border: solid;
+  margin-left: 2%;
+  border-radius: 10%;
+}
+
+.card2{
+  background-color: skyblue;
+  margin-left: 300%;
+  margin-top: -175%;
+  border: solid;
+  border: 10%;
+  height: 660px;
+  width: 250px;
+  border-radius: 10%;
+}
+
+.card3{
+  background-color: skyblue;
+  margin-left: 300%;
+  margin-top: -317.6%;
+  border: solid;
+  border: 10%;
+  height: 660px;
+  width: 250px;
+  border-radius: 10%;
+}
+
+.Bootstrap{
+  height: 200px;
+  width: 245px;
+  border-radius: 10%;
+}
+
+.Activities{
+  background-color: slateblue;
+  height: 750px;
+}
+
+.information{
+  background-color: black;
+  width: 1000px;
+}
+
+.Email{
+  text-align: center;
+  margin-top: -3.7%;
+}
+
+.Address{
+  text-align: right;
+  margin-top: -3.7%;
+
+}
+
+.Hi{
+  text-align: right;
+}
+
+.fb{
+  width: 64px;
+  height: 64px;
+}
+
+.cs{
+  width: 400px;
+  height: 300px;
+}

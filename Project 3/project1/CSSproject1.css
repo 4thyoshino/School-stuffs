@@ -1,0 +1,38 @@
+.iceland1 {
+    float: right;
+    width: 200px;
+    height: 150px;
+
+}
+
+.logo {
+    width: 200px;
+    height: 150px;
+
+
+}
+
+.border1 {
+    border: solid;
+    background-color: pink;
+
+}
+
+.iceland2 {
+    width: 400px;
+    height: 300px;
+    border: solid;
+    border-color: cornflowerblue;
+    margin-left: 3%;
+}
+
+.hiking {
+    width: 400px;
+    border: solid;
+    margin-left: 10%;
+
+}
+
+.central {
+    text-align: center;
+}
