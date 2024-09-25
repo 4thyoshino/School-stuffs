@@ -1,5 +1,27 @@
-.firsth1{
+.div1{
     text-align: center;
-    color: white;
     border-radius: 50px;
+    font-family: monospace;
+}
+
+.btn{
+padding: 0;
+border: none;
+background: none;
+
+}
+
+.firstbtn {
+    border-color: #e7e7e7;
+    color: black;
+  }
+
+  .firstbtn:hover {
+    background: #e7e7e7;
+  } 
+
+.div2 {
+    text-align: center;
+
+
 }
