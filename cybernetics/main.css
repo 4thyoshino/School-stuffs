@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.contains{
+    width: 100%;
+    height: 50vh;
+    background-image: url(cyber.jpg);
+    background-position: absolute;
+    background-size: cover;
+    margin: 0 auto;
+    
+    
+    
+}
+
+
+.main{
+    width: 100%;
+    position: absolute;
+    top: 20%;
+    text-align: center;
+    color: aliceblue;
+    
+    
+}
+
+.main h1{
+    font-size: 70px;
+    margin-top: 30px;
+    position: absolute;
+    left: 28%;
+    overflow-y: hidden;
+    
+    
+}
+
+
+
+
+
+
+
+
+.navbar {
+    width: 85%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    text-align: uppercase;
+}
+
+.navbar ul li::after{
+    content: '';
+    height: 3px;
+    width: 0;
+    background: #03c252;
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    transition: 0.5s;
+}
+
+.navbar ul li:hover::after{
+    width: 100%;
+}
+
+
+
+.pc1 {
+    height: 276px;
+}
+
+.video {
+    left: 100px;
+}
